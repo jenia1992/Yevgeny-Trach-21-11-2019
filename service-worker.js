@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Yevgeny-Trach-21-11-2019/precache-manifest.b43fc94f0532d7e6a6c02a3bf865bdca.js"
+  "/Yevgeny-Trach-21-11-2019/precache-manifest.ef7c89c171ddff01abb4a8479c2d8851.js"
 );
 
 self.addEventListener('message', (event) => {
