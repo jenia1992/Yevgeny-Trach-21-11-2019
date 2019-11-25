@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Yevgeny-Trach-21-11-2019/static/css/main.2c8c4cf8.chunk.css",
-    "main.js": "/Yevgeny-Trach-21-11-2019/static/js/main.fb0334e4.chunk.js",
-    "main.js.map": "/Yevgeny-Trach-21-11-2019/static/js/main.fb0334e4.chunk.js.map",
+    "main.js": "/Yevgeny-Trach-21-11-2019/static/js/main.6e766930.chunk.js",
+    "main.js.map": "/Yevgeny-Trach-21-11-2019/static/js/main.6e766930.chunk.js.map",
     "runtime-main.js": "/Yevgeny-Trach-21-11-2019/static/js/runtime-main.5f3c1a95.js",
     "runtime-main.js.map": "/Yevgeny-Trach-21-11-2019/static/js/runtime-main.5f3c1a95.js.map",
     "static/js/2.264c464f.chunk.js": "/Yevgeny-Trach-21-11-2019/static/js/2.264c464f.chunk.js",
     "static/js/2.264c464f.chunk.js.map": "/Yevgeny-Trach-21-11-2019/static/js/2.264c464f.chunk.js.map",
     "index.html": "/Yevgeny-Trach-21-11-2019/index.html",
-    "precache-manifest.400a6623283f6a2cc155586ea8b512cb.js": "/Yevgeny-Trach-21-11-2019/precache-manifest.400a6623283f6a2cc155586ea8b512cb.js",
+    "precache-manifest.bed3ab1bdb3468d7d9390de5ad1c4d38.js": "/Yevgeny-Trach-21-11-2019/precache-manifest.bed3ab1bdb3468d7d9390de5ad1c4d38.js",
     "service-worker.js": "/Yevgeny-Trach-21-11-2019/service-worker.js",
     "static/css/main.2c8c4cf8.chunk.css.map": "/Yevgeny-Trach-21-11-2019/static/css/main.2c8c4cf8.chunk.css.map",
     "static/media/index.css": "/Yevgeny-Trach-21-11-2019/static/media/bgClouds.20e285d9.jpg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5f3c1a95.js",
     "static/js/2.264c464f.chunk.js",
     "static/css/main.2c8c4cf8.chunk.css",
-    "static/js/main.fb0334e4.chunk.js"
+    "static/js/main.6e766930.chunk.js"
   ]
 }
